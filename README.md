@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarek Sayadi (AKA Trek)
 - 👀 I’m interested in Data Science & Machile Learning in general.
-- 🌱 I’m currently learning Clustering Methods.
+- 🌱 I’m currently working on advanced Clustering Methods.
 - 📫 How to reach me: 
      Mail:     Tarek.sayedi98@gmail.com
      Linkedin: https://www.linkedin.com/in/tarek-sayadi-a86429150/
