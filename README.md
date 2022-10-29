@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist and a research master student.</h3>
 
 - 📧 Reach me on Tarek.sayadi98@gmail.com 
-- 🔎 I’m LFJ (Looking For Jobs). 
+- 🔎 I’m LFJ (Looking For a Job). 
 - 🔭 I’m currently working on **advanced clustering methods** 
 - 📝 I'm currently writing a research article for my thesis.
 - 🐦 I have an Elevated developper Twitter account.
