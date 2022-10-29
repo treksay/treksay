@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tarek Sayadi</h1>
 <h3 align="center">A passionate data scientist and a research master student.</h3>
 
-<p align="left"> <a href="https://twitter.com/darkstar_trek" target="blank"><img src="https://img.shields.io/twitter/follow/darkstar_trek?logo=twitter&style=for-the-badge" alt="darkstar_trek" /></a> </p>
+- 🔭 I’m currently working on **advanced clustering methods** 
+- 📝 I'm currently writing a research article for my thesis.
+- 🎵 I'm a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
 
-- 🔭 I’m currently working on **advanced Clustering Methods.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me:</h3>
 <p align="left">
+- 📧 : Tarek.sayadi98@gmail.com.
+  or
 <a href="https://twitter.com/darkstar_trek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkstar_trek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/tarek-sayadi-a86429150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tarek-sayadi-a86429150" height="30" width="40" /></a>
 </p>
