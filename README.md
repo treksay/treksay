@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Sayadi</h1>
 <h3 align="center">A passionate data scientist and a research master student.</h3>
-- 📧 : Tarek.sayadi98@gmail.com 
 
+- 📧 Reach me on Tarek.sayadi98@gmail.com 
 - 🔎 I’m LFJ (Looking For Jobs). 
 - 🔭 I’m currently working on **advanced clustering methods** 
 - 📝 I'm currently writing a research article for my thesis.
