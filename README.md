@@ -4,11 +4,12 @@
 - 🔭 I’m currently working on **advanced clustering methods** 
 - 📝 I'm currently writing a research article for my thesis.
 - 🎵 I'm a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
+- 🎨 I make art for fun: **https://www.instagram.com/trekbeats1/**.
 
 <h3 align="left">Reach me:</h3>
+- 📧 : Tarek.sayadi98@gmail.com
+Otherwise:
 <p align="left">
-- 📧 : Tarek.sayadi98@gmail.com.
-  or
 <a href="https://twitter.com/darkstar_trek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkstar_trek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/tarek-sayadi-a86429150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tarek-sayadi-a86429150" height="30" width="40" /></a>
 </p>
