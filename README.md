@@ -4,6 +4,9 @@
 - 🔎 I’m LFJ (Looking For Jobs).
 - 🔭 I’m currently working on **advanced clustering methods** 
 - 📝 I'm currently writing a research article for my thesis.
+- 🐦 I have an Elevated developper Twitter account.
+
+<h3 align="left">Hobbies:</h3>
 - 🎵 I'm a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
 - 🎨 I make art for fun: **https://www.instagram.com/trekbeats1/**.
 
