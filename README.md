@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Sayadi</h1>
 <h3 align="center">A passionate data scientist and a research master student.</h3>
 
+- 🔎 I’m LFJ (Looking For Jobs).
 - 🔭 I’m currently working on **advanced clustering methods** 
 - 📝 I'm currently writing a research article for my thesis.
 - 🎵 I'm a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
