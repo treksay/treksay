@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tarek Sayadi</h1>
-<h3 align="center">A passionate data scientist and a research master student.</h3>
+<h3 align="center">A passionate data scientist and researcher.</h3>
 
 - 📧 Reach me on Tarek.sayadi98@gmail.com 
 - 🔎 I’m LFJ (Looking For a Job). 
-- 🔭 I’m currently working on **advanced clustering methods** 
-- 📝 I'm currently writing a research article for my thesis.
-- 🐦 I have an Elevated developper Twitter account.
+- 🔭 I’m currently working on **Machine Learning** 
+- 📝 I'm also writing a research article for my thesis.
 - 🎵 I'm a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
 - 🎨 I make art for fun: **https://www.instagram.com/trekbeats1/**.
 
