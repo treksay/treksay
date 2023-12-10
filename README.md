@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist and researcher.</h3>
 
 - 📧 Reach me on Tarek.sayadi98@gmail.com 
-- 🔎 I’m a software engineer. 
+- 🔎 I’m a software developer at Expensya. 
 - 🔭 I’m currently working on **BackEnd Development**.
 - 🎵 I'm a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
 - 🎨 I make art for fun: **https://www.instagram.com/trekbeats1/**.
