@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarek Sayadi</h1>
+<h1 align="center">Hi 👋, I'm Tarek Sayadi (Trek) </h1>
 <h3 align="center">A passionate data scientist and researcher.</h3>
 
 - 📧 Reach me on Tarek.sayadi98@gmail.com 
