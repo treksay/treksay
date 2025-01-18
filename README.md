@@ -3,8 +3,8 @@
 
 - 📧 Reach me on Tarek.sayadi@outlook.com 
 - 🔎 I’m a software engineer. 
-- 🔭 I’m currently working on **BackEnd Development**.
-- 🎵 I'm a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
+- 🔭 I’m currently working on **.NET/Angular Development** at **Expensya**.
+- 🎵 I'm also a musician freelancer at Fiverr: **https://www.fiverr.com/users/tareksayadi**.
 - 🎨 I make art for fun: **https://www.instagram.com/trekbeats1/**.
 
 <h3 align="left">Reach me otherwise:</h3>
