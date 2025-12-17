@@ -3,7 +3,7 @@
 
 - 📧 Reach me on Tarek.sayadi@outlook.com 
 - 🔭 I’m currently a **Software Engineer** at **Medius**.
-- 🔎 I have a background research in AI. 
+- 🔎 I have a research background in AI. 
 - 🎵 I'm also a musician and an artist.
 
 <h3 align="left">Reach me otherwise:</h3>
