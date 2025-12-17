@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software engineer.</h3>
 
 - 📧 Reach me on Tarek.sayadi@outlook.com 
-- 🔎 I’m a software engineer. 
 - 🔭 I’m currently a **Software Engineer** at **Medius**.
+- 🔎 I have a background research in AI. 
 - 🎵 I'm also a musician and an artist.
 
 <h3 align="left">Reach me otherwise:</h3>
